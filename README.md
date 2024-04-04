@@ -1,4 +1,4 @@
-# TIMETABLE
+# Timetable
  
 * [Descrição](#descrição)
 * [Introdução](#introdução)
