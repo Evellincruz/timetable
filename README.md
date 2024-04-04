@@ -17,13 +17,13 @@ A empresa Alpha é uma empresa de fretamento que necessita de uma solução efic
  
 ## Funcionalidades ⚙️
 - Marcação de dias no calendário, atribuindo a eles a cor do veículo que realizará o frete.
-* Identificação visual dos veículos através das cores:
+## Identificação visual dos veículos através das cores:
 - Azul para o veículo 1
 - Verde para o veículo 2
 - Rosa para o veículo 3
 - Roxo para o veículo 4
 
-* Restrições de agendamento:
+## Restrições de agendamento:
 - Um veículo não pode realizar mais de um frete no mesmo dia.
 - Cada veículo pode realizar no máximo 3 fretes por mês.
  
