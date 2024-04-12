@@ -10,7 +10,7 @@
 # ⚜️Calendário de Agendamento de Fretes⚜️
 
 
-![cCalendário](img/Calendar.jpeg)
+     ![cCalendário](img/Calendar.jpeg)
  
 # Descrição 📒
 Com uma interface visualmente deslumbrante e altamente intuitiva, nossa aplicação permite que os usuários registrem os agendamentos de fretes de forma rápida, fácil e organizada. Imagine um calendário dinâmico, onde cada dia é marcado com cores vibrantes, representando os diferentes veículos disponíveis para realizar os fretes. Vermelho para caminhões, azul para furgões e verde para vans - uma explosão de cores que torna o agendamento não apenas eficiente, mas também emocionante!
